@@ -2,12 +2,12 @@
 
 $type     = 'mysql';                             // Type of database
 $server   = '192.185.2.183';                    // Server the database is on
-$db       = 'rebeccai_toystore';     // Name of the database
+$db       = 'nicolebu_bookInventory';     // Name of the database
 $port     = '3306';                           // Port is usually 3306 in Hostgator
 $charset  = 'utf8mb4';                       // UTF-8 encoding using 4 bytes of data per char
 
-$username = 'rebeccai_rebeccatest';     // Enter YOUR cPanel username and user here
-$password = 'csc_100254102';           // Enter YOUR user password here
+$username = 'nicolebu_nicolebubencik';     // Enter YOUR cPanel username and user here
+$password = 'csc_100715572';           // Enter YOUR user password here
 
 
 
